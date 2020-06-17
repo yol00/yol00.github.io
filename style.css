@@ -1,0 +1,231 @@
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    border: rgb(208, 57, 88);
+  
+}
+
+.container-1 {
+    background-image: url("img/Group1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+      
+}
+
+
+.content {
+    padding-left: 85px;
+    padding-right: 85px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link  {
+    background-color: rgb(208, 57, 88);
+    
+}
+.nav-link {
+    color: rgb(27, 27, 27);
+}
+
+
+h1 {
+    font-weight: 700;
+    line-height: 1.2;
+        font-size: 4rem;
+}
+
+.h-pink {
+    color: rgb(208, 57, 88);
+}
+
+h2 {
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 2.5rem;
+}
+
+
+
+.lead {
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 700;
+text-shadow: 0em 0em 0.05em #cecece;
+}
+
+.first-screen {
+    margin-top: 100px;
+}
+
+.quote-form-name {
+    padding-top: 5px;
+    text-align: center;
+    color: seashell;
+}
+
+.quote-form-1 {
+    background-color:  rgb(208, 57, 88);
+    border-radius: (5px, 5px, 0, 0);
+    font-weight: 400;
+}
+.container-2 {
+    background-color: white;
+}
+
+.our-services {
+    display: inline-block;
+    margin-top: 5px;
+    padding-right: 5px;
+}
+
+.quote-form-2 {
+    background-color:  rgb(208, 57, 88);
+    border-radius: (0, 0, 5px, 5px);
+    font-weight: 400;
+}
+.form-check-label {
+    color: white;
+}
+.btn-primary {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+    width: 100%;
+    
+}
+.services {
+    margin-top: 50px;
+}
+.card{
+border: none;
+align-items: center;
+text-align: center;
+}
+
+.card-img-top {
+    text-align: center;
+    height: 150px;
+    width: 145px;
+}
+
+.card-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  1.3rem;
+    font-weight: 500;
+}
+
+.container-3 {
+background-color:  rgb(208, 57, 88);
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.aboutus-text {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size:  1.3rem;
+    font-weight: 350;
+    color: white;
+}
+.btn-lg {
+    vertical-align: middle;
+   
+    width: 100%;
+}
+.btn-light {
+    background-color: rgb(227, 213, 184);
+}
+
+.btn-pink {
+    background-color:rgb(208, 57, 88);
+    color: white;
+}
+
+.container-4 {
+    background-color: rgb(227, 213, 184); 
+}
+
+.pricing-name {
+    text-align: center;
+}
+.pricing-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.card {
+    width: 18rem;  
+}
+.card-1 {
+   margin-left: 0px;
+}
+.card-2 {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.card-3 {
+    margin-right: 0px;
+}
+.products {
+    padding: 0;
+}
+.products-list {
+font-weight: 600;
+list-style-type: none;
+text-align: center;
+}
+.title {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.feedback-card{
+    padding: 15px;
+}
+.feedback-text {
+    display: inline-block;
+    width: 75%;
+    vertical-align: middle;
+}
+.user-avatar {
+    margin: 0px;
+    display: inline-block;
+   }
+
+.gallery{
+   
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    }
+
+.foto {
+margin: 20px;
+}
+.round-picture {
+    border-radius: 50%;
+    box-shadow: 0.0em -0.4em 0.5em rgb(218, 211, 198)
+ }
+.foto-avatar {
+    margin: 0;
+    
+}
+.card-light{
+    background-color:  rgb(227, 213, 184);
+}
+.container-6 {
+    background-color: black;
+}
+.footer-text {
+    color: white;
+    display: inline-block;
+}
+.footer-logo {
+    float: right;
+    
+}
+.footer {
+    padding: 15px;
+}
